@@ -1,0 +1,72 @@
+.vert
+{
+  background-color: green;
+  width: 80%;
+  height: 60px;
+}
+.bleu
+{
+  background-color: blue;
+  width: 20%;
+  height: 60px;
+}
+.rouge1
+{
+  background-color: red;
+  width: 34%;
+  height: 80px;
+}
+.rouge2
+{
+  background-color: red;
+  width: 34%;
+  height: 80px;
+}
+.orange
+{
+  background-color: orange;
+  width: 33%;
+  height: 80px;
+}
+.gris
+{
+  background-color: grey;
+  width: 33%;
+  height: 80px;
+}
+.jaune
+{
+  background-color: yellow;
+  width: 22%;
+  height: 80px;
+}
+.cyan
+{
+  background-color: aqua;
+  width: 22%;
+  height: 80px;
+}
+.marron
+{
+  background-color: maroon;
+  width: 22%;
+  height: 80px;
+}
+.marine
+{
+  background-color: navy;
+  width: 100%;
+  height: 220px;
+}
+#vb
+{
+  display: flex;
+}
+#og
+{
+  display: flex;
+}
+#jcm
+{
+  display: flex;
+}
